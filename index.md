@@ -8,7 +8,7 @@ Utilizzando la piattaforma [Enter Cloud Suite](http://entercloudsuite.com/){:tar
 verrà presentata una soluzione Cloud completa, basata su [OpenStack](https://www.openstack.org/){:target="_blank"}
 il progetto opensource avviato dalla NASA che oggi è usato da più di 600 company.  
 
-### Livello: Intermedio
+### Livello: Base
 
 ### Durata: 2 sessioni
  
